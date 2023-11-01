@@ -5,16 +5,15 @@
 - 😄 Pronouns: ela/dela
   
 ##
-
+<div>
   <a href="https://github.com/carlaffp/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlaffp&show_icons=true&card_width=290" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlaffp&layout=compact&langs_count=8&card_width=290" />
 </a>
-
+</div>
   
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
