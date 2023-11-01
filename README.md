@@ -10,7 +10,7 @@
   <img width=420 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlaffp&show_icons=true" />
 </a>
   <a href="https://github.com/carlaffp/convoychat">
-  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlaffp&layout=compact&langs_count=8" />
+  <img  height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlaffp&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </a>
 </div>
   
